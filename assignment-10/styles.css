@@ -1,0 +1,59 @@
+body{
+    background-color: #dbcaca;
+    font-family: Gothic;
+    text-align: center;
+}
+
+div{
+    border: 5px solid grey;
+    display: inline-block;
+}
+
+img{
+    border-radius: 50%;
+    border: 10px solid #750f0f;
+
+}
+
+.inspo{
+    background-color: #401111;
+    height: 700px;
+    width: 700px;
+    display: inline-block;
+}
+
+#title{
+    font-size: 75%;
+    background-color: #dbcaca;
+    color:#401111;
+    margin: auto;
+    padding: 20px;
+}
+
+.palette{
+    background-color: beige;
+    width: 800px;
+}
+
+.c{
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    display: inline-block;
+}
+
+.c1{
+    background-color: #401111;
+}
+
+.c2{
+    background-color: #750f0f;
+}
+
+.c3{
+    background-color: #dbcaca;
+}
+
+.c4{
+    background-color: grey;
+}
